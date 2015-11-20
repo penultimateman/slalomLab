@@ -1,6 +1,5 @@
 #cd ideal
 
-
 #why do i need to do this everytime????!?!!?!?
 export PATH=$PATH:/usr/local/bin
 
@@ -15,7 +14,7 @@ cd app
 bower install
 
 # Run gulp CI tasks
-gulp ci
+# gulp ci
 
 #move back up to the root directory
 cd ../
@@ -32,8 +31,4 @@ if [ $CF_SPACE ]; then
 else
 	CF_SPACE="development"
 fi
-
-
-
-
 
