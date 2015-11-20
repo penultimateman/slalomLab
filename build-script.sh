@@ -1,5 +1,6 @@
 #cd ideal
 
+
 #why do i need to do this everytime????!?!!?!?
 export PATH=$PATH:/usr/local/bin
 
